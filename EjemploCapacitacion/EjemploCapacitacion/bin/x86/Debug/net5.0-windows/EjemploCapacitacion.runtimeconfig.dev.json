@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SAPServiceB5C\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SAPServiceB5C\\.nuget\\packages"
+    ]
+  }
+}
